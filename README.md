@@ -3,4 +3,4 @@
     - Mail: [samama123jarrar@gmail.com](mailto:samama123jarrar@gmail.com)
     - Linkedin: [https://www.linkedin.com/in/samamajarrar](https://www.linkedin.com/in/samamajarrar)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
